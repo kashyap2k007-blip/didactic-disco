@@ -1,0 +1,38 @@
+{
+  "total": {
+    "medical": 1,
+    "dental": 1,
+    "combined": 2
+  },
+  "byState": {
+    "Delhi": {
+      "medical": 1,
+      "dental": 1,
+      "total": 2
+    }
+  },
+  "byType": {
+    "government": 2,
+    "private": 0,
+    "deemed": 0
+  },
+  "byManagement": {
+    "government": 2,
+    "private": 0,
+    "trust": 0,
+    "society": 0
+  },
+  "seatMatrix": {
+    "mbbs": {
+      "total": 100,
+      "aiq": 15,
+      "state": 85
+    },
+    "bds": {
+      "total": 50,
+      "aiq": 8,
+      "state": 42
+    }
+  },
+  "lastUpdated": "2024-01-15T10:30:00.000Z"
+}
